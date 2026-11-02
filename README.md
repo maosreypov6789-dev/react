@@ -1,8 +1,8 @@
-Project Overview
+# Project Overview
 
     My React App is a web application built using React and Vite. This project helps me practice React development, understand modern frontend technologies, and improve my web development skills.
 
-Project Objectives
+# Project Objectives
 
     Learn React fundamentals.
     Understand JSX and reusable components.
@@ -12,7 +12,7 @@ Project Objectives
     Learn how to organize and manage a React project.
     Build a responsive user interface.
 
-Technologies Used
+# Technologies Used
 
     React
     JavaScript
@@ -21,7 +21,7 @@ Technologies Used
     Vite
     Git and GitHub
 
-Project Structure
+# Project Structure
 
     react/
     ├── node_modules/
@@ -40,27 +40,27 @@ Project Structure
     ├── README.md
     └── vite.config.js
 
-Clone the Repository
+# Clone the Repository
 
     git clone https://github.com/maosreypov6789-dev/react.git
 
-Install Dependencies
+# Install Dependencies
 
     npm run dev
 
-Run the Development Server
+# Run the Development Server
 
     npm run dev
 
-Open the Application
+# Open the Application
 
     Open the local URL displayed in your terminal (usually http://localhost:5173) in your web browser.
 
-Author  
+# Author  
 
     Name: MAO Sreypov
     School: PSE Institute
 
-License
+# License
 
 This project is created for educational purposes as part of my learning journey in Web and Mobile Application Development.
